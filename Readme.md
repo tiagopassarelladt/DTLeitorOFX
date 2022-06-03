@@ -1,0 +1,1 @@
+Este é um componente criado para leitura de arquivos bancarios com extensão .OFX
